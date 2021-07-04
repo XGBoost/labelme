@@ -1,0 +1,13 @@
+__ignore__
+_background_
+bus
+building
+pole
+traffic sign
+vegetation
+terrain
+sky
+person
+rider
+car
+road
